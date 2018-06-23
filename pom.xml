@@ -24,6 +24,7 @@
 
     <modules>
         <module>webapp</module>
+        <module>boot-webapp</module>
     </modules>
 
     <dependencies>
